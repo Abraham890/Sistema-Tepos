@@ -66,9 +66,17 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+
 ## Installation
 - **1.-  composer install**
 - **2.-  npm install**
 - **3.-  configurar .env**
 - **4.-  php artisan key:generate**
 - **5.-  php artisan migrate:refresh –-seed**
+
+
+Documentación de Laravel
+Puede encontrar la versión en línea de la documentación de Laravel en https://laravel.com/docs
+
+Pautas de contribución
+Si está enviando documentación para la versión estable actual , envíela a la sucursal correspondiente. Por ejemplo, la documentación para Laravel 11 se enviaría a la 11.xsucursal. La documentación destinada a la próxima versión de Laravel debe enviarse a la mastersucursal.
