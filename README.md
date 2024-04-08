@@ -75,7 +75,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - **5.-  php artisan migrate:refresh –-seed**
 
 
-Documentación de Laravel
+## Documentación de Laravel
+
 Puede encontrar la versión en línea de la documentación de Laravel en https://laravel.com/docs
 
 Pautas de contribución
